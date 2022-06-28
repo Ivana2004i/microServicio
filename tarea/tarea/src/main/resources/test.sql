@@ -1,0 +1,6 @@
+CREATE TABLE CLIENTE(
+nombre varchar(50)
+);
+
+
+INSERT INTO CLIENTE(nombre) VALUES ("CORNEJO)
